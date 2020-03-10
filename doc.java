@@ -17,8 +17,6 @@ public interface doc
    public abstract String obtenerLinea(int x, String file);
    
    /**entrada:direccion es un String
-    * precondicion:
-    * postcondicion:
     * salida: latidud y altitud los dos son un float
     */
    /** el metodo calcula la latitud y altitud de la direccion que has introducido
